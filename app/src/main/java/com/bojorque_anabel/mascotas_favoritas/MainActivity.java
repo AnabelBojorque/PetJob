@@ -1,6 +1,5 @@
-package com.ftassara.courseraunam_datosusuario;
+package com.bojorque_anabel.mascotas_favoritas;
 
-import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;

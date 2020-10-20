@@ -1,4 +1,4 @@
-package com.ftassara.courseraunam_datosusuario;
+package com.bojorque_anabel.mascotas_favoritas;
 
 import android.view.View;
 import android.widget.ImageView;
